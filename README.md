@@ -2,6 +2,8 @@
 
 Exploratory data analysis and price prediction of Austin, TX Airbnb rentals. The areas of particular focus are how property size, location, and reviews correlate to vacation rental prices. 
 
+Medium Story: https://medium.com/@daniel.j.cummings/exploring-and-predicting-airbnb-rental-prices-in-austin-texas-88cfa10258fd
+
 ## Getting Started
 
 Cloning the git repository and installing the provided packages will help you get a copy of the project up and running on your local machine. The analysis for this project was performed using Jupyter Notebook (.ipynb) and the packages were managed using the Ananconda platform. 
