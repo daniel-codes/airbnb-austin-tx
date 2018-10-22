@@ -1,4 +1,4 @@
-# airbnb-austin-tx
+# Exploring and predicting Airbnb rental prices in Austin, Texas
 
 This project explores Airbnb data for Austin, Texas following the CRISP-DM methodology. The areas of particular focus are how property size, location, and reviews correlate to vacation rental prices. 
 
